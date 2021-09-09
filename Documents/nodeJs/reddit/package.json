@@ -8,7 +8,7 @@
   },
 
   "bin":{
- "reddit":"./reddit.mjs" },
+ "reddit":"C:/Users/Equipo 1/Documents/nodeJs/reddit/reddit.mjs" },
   "author": "",
   "license": "ISC"
 }
